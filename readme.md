@@ -2,3 +2,5 @@
 -Git nəyə lazımdır.
 -git init (git sisteminin qurulması)
 -git status(layihənin statusuna baxılması)
+-git add . (fayllarda gorulen islerin qeydiyyata alinmasi)
+-git commit -m "Comment" (Gorulen is haqqinda izahat)
