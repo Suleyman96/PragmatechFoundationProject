@@ -1,0 +1,19 @@
+ /* select by tag name */
+ /* html daxilinde butun eyni adli taglara eyni xususiyyeti verir */
+/* section{
+    background-color: green;
+} */
+/* div{
+  background: lightgray;
+  padding: 20px;
+  border:1px solid gray
+  
+} */
+.news-item{
+    background: lightgray;
+    padding: 20px;
+    border:1px solid gray  
+}
+.bg-blue{
+    background-color: lightblue;
+}
