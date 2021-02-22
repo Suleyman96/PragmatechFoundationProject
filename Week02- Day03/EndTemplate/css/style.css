@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    font-family: 'Newsreader', serif;
+   
+}
+/* Header bolmesi */
+
+
+/* Header info bolmesi */
+.header-info{
+    background-color: #fff;
+    padding: 16px 0px;
+    color: #212529;
+    /* border: 1px solid rgb(180, 42, 42) */
+}
+.header-container{
+    width: 390px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+.header-tel-info i{
+color: #ea1d5d;
+margin-right: 10px;
+
+}
+.header-tel-info span{
+    margin-right: 10px;
+}
+.header-email-adres i{
+    color: #ea1d5d;
+    margin-right: 10px;
+}
+.header-serchbar{
+    border:1px solid grey;
+    background-color: #000;
+    color: #fff;
+    padding: 5px 32px;
+    
+} 
+.serchbar-container{
+width: 1005px;
+border:1px solid white ;
+margin: 0px 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}  
+
+/* Header serchbar bolmesi */
+
+
+/* Header navbar bolmesi */
