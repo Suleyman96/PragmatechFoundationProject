@@ -21,4 +21,11 @@ github.com hesabımda.
  - style taglarinin test etdim
  - html və css fayllarını əlaqələndirdim.
  - id, class, section, div, h1 selectorlarla test edildi.
- - 
+ 
+ # Week02-Day02
+ - CSS rəng istifadəsi.
+ - CSS məsafə vermə anlayışı.
+ - icon istifadəsi.
+ - Fontlardan istifadə
+ - Elementlərin yerləşdirilməsi. (Horizontal və vertical)
+ 
