@@ -1,6 +1,7 @@
 body{
     margin: 0px;
-    font-family: 'Newsreader', serif;
+    font-family: 'Cantarell', sans-serif;
+    font-size: 14px;
    
 }
 /* Header bolmesi */
@@ -61,9 +62,9 @@ font-size: 20px;
 } 
 .serchbar-container h1{
     margin: 0rem;
-    letter-spacing: 0.4rem;
+    letter-spacing: 0.1rem;
     font-size: 2rem;
-    font-weight: 40rem;
+    font-weight: 30rem;
     text-transform: capitalize;
 } 
 .box{
@@ -94,7 +95,7 @@ font-size: 20px;
     margin: 0px 10px;
     
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
     align-items: center;
     
 }
@@ -106,6 +107,28 @@ font-size: 20px;
 }
 
 /* Header navbar bolmesi */
+.header-navbar{
+    background-color: #fff;
+    padding: 16px 0px;
+    color: #212529;
+}
 .navbar-container{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 200px;
+}
+.navbar-container ul{
+    margin: 0px;
+    padding:0px;
+    display: flex;
+}
+.navbar-container ul li{
+    list-style: none;
+    padding: 0px 25px;
+
+    font-size: 16px;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: 600;
 }
