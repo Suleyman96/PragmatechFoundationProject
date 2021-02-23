@@ -34,23 +34,78 @@ margin-right: 10px;
     color: #ea1d5d;
     margin-right: 10px;
 }
+/* Search-bar bolmesi  */
 .header-serchbar{
     border:1px solid grey;
     background-color: #000;
     color: #fff;
     padding: 5px 32px;
-    
+    width: 100%;
+    height: 4rem;
+   
 } 
+.search-box{
+
+ justify-content: space-between ;
+ align-items: flex-end;
+
+}
 .serchbar-container{
 width: 1005px;
-border:1px solid white ;
-margin: 0px 10px;
+ /* border:1px solid white ; */
+margin: 16px 10px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-}  
-
-/* Header serchbar bolmesi */
-
+font-size: 20px;
+} 
+.serchbar-container h1{
+    margin: 0rem;
+    letter-spacing: 0.4rem;
+    font-size: 2rem;
+    font-weight: 40rem;
+    text-transform: capitalize;
+} 
+.box{
+    width: 400px;
+    height: 35px;
+    background-color: #e4e4e4;
+    color: #fff;
+    border-radius: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-right: 0px;
+    border: 1px solid #fff;
+    
+}
+.btn{
+    width: 80px;
+    height: 35px;
+   padding: 0px;
+    background: #000;
+    color: #fff;
+    border: 1px solid #fff;
+    border-left: 0px;
+    border-radius: 0px;
+    margin-left: -5px;
+}
+.icons{
+    font-size: 1.5rem;
+    margin: 0px 10px;
+    
+    display: flex;
+    justify-content: space-between
+    align-items: center;
+    
+}
+.heart, .user, .arrow-down{
+    border: 1px solid #ea1d5d;
+    color: #ea1d5d;
+    margin: 0px 5px;
+    padding: 5px;
+}
 
 /* Header navbar bolmesi */
+.navbar-container{
+    border: 1px solid blue;
+}
