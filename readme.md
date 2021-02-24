@@ -28,4 +28,22 @@ github.com hesabımda.
  - icon istifadəsi.
  - Fontlardan istifadə
  - Elementlərin yerləşdirilməsi. (Horizontal və vertical)
+  
+  # Week02- Day03
+ - font-family
+- font-size
+- font-weight
+- ul,li,img
+- list-style
+- align-items (flex)
+
+# Week02- Day04
+- background-image
+- background-position
+- background-size
+- border
+- hover
+-position absolute, relative)
+və.s taglarindən istifadə edərək slider section bölməsi hazırlandı.
+
  
