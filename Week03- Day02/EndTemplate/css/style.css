@@ -7,13 +7,12 @@ body{
   
 }
 /* Header bolmesi */
-#header {
-    font-family: 'Cantarell', sans-serif;
-    font-size: 14px;
+#header{
     background-image: url('../img/slider-img.jpg');
     background-size: cover;
-    width: 100%;
-    height: 43rem;
+    width: 1365px;
+    height: 40rem;
+
 }
 
 /* Header info bolmesi */
@@ -28,6 +27,7 @@ body{
     transition: ease 0.5s;
     
 }
+
 .header-container{
     width: 390px;
     margin-top: 0px;
@@ -171,9 +171,12 @@ font-size: 20px;
     font-weight: 600;
 }
 /* Slider section styles */
+#slider{
+    height:470px;
+    /* border:1px solid rgb(221, 24, 24); */
+    position: relative;
 
-
-
+}
 .slider-item{
     width: 100%;
     height: 100%;
@@ -233,8 +236,73 @@ margin: 0px auto;
     font-size: 30px;
     color:#fff;
 }
-
+/* product section styles */
+#products{
+    padding: 30px 0px;
+    width: 1366px;
+}
+.container{
+    margin:0 7.5em;
+   position: absolute;
+}
+.product-item{
+    height: 270px;
+    text-align: center;
+    margin:0px 50px;
+    padding:10px;
+} 
+.image-frame{
+    width: 100%;
+    height: 270px;
+}
+.row{
+    padding:20px;
+  
+}
+.image-frame img{
+width: 100%;
+height: auto;
+padding: .25rem;
+background-color: #fff;
+vertical-align: middle;
+border:1px solid #dee2e6;
+border-radius: .25rem;
+}
+.product-item h1{
+color:black;
+padding: 10px;
+margin: 0px;
+}
+.row .col-12{
+    font-size: 1.7rem;
+    text-align: center;
+    
+}
+.container .discount{
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+}
+.discount{
+    width: 40%;
+    background: rgba(0, 0, 0, 0.7);
+   margin: 350px 0px;
+    left:25%;
+    position:absolute;
+    padding: 6em 2em;
+    text-align: center;
+}
+.about-toys h2{
+    color:#fff;
+    font-size:28px;
+    text-transform: uppercase;
+    text-weight:bold;
+    line-height: 30px;
+}
+.about-toys span{
+    color:#ea1d5d;
+    font-style: italic;
    
+}
 
 
     
