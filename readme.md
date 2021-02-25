@@ -1,3 +1,4 @@
+[Template link](https://w3layouts.com/template/toys-shop-an-ecommerce-category-bootstrap-responsive-web-template/?fbclid=IwAR26KIcp9yIabhVsETEmNzbpTJNV2IWTXNbxRGz1t-77mbQI7w4UjwV8EBc)
 # Week01 - Day 02
 - git init (git sisteminin qurulması)
 - git status(layihənin statusuna baxılması)
