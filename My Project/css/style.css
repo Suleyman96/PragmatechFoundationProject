@@ -546,7 +546,18 @@ margin-bottom: -10px;
     border: 1px solid black;
 
 }
-
+/* About Toys section styles */
+#about-toys{
+    width: 1366px;
+    height: 490px;
+    padding: 10px 0px;
+    background: #fff;
+}
+.row p{
+    font-size: 17px;
+    line-height: 28px;
+    color: black;
+}
   
    
     
