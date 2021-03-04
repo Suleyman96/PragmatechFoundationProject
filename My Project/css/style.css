@@ -502,7 +502,7 @@ margin-bottom: -10px;
 }
 .col-12 .img2{
     width: 100%;
-    height: 287px;
+    height: 270px;
     object-fit: cover;
 }
 
@@ -549,8 +549,8 @@ margin-bottom: -10px;
 /* About Toys section styles */
 #about-toys{
     width: 1366px;
-    height: 490px;
-    padding: 10px 0px;
+    height: 450px;
+    padding: 20px 0px;
     background: #fff;
 }
 .row p{
@@ -558,7 +558,45 @@ margin-bottom: -10px;
     line-height: 28px;
     color: black;
 }
-  
+/* Subscribe section styles */
+#subscribe{
+    width: 1366px;
+    height: 365px;
+    padding: 0px 0px;
+    /* border: 1px solid green; */
+}
+.container-fluid{
+    width: 100%;
+    height: 100%s;
+}
+  .col-6.adres {
+    height: 367px;
+    margin-left: -11px;
+    margin-right: 10px;
+    margin-bottom: -10px;
+    background: #ffcb2d;
+}
+.col-6.map{
+    width: 50%;
+    height:385px;
+    margin-right:0px ;
+    margin-left: 5px;
+}
+  .adres-item{
+      text-align: center;
+      
+    
+  }
+
+  .adres-item span{
+      color:#ea1d5d;
+      font-size: 30px;
+      margin: 5px 0px;
+      padding: 10px;
+  }
+.adres-item p{
+ margin: 10px;   
+}
    
     
    
