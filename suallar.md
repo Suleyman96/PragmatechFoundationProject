@@ -12,3 +12,15 @@
 - string - ardıcıl simvollar
 - Boolean - məntiqi (doğru və ya yanlış)
 - nothing - boşluq
+
+4. Type Conversion ya da Type Casting nədir? Hansı hallarda ehtiyac duyulur? 
+- Type Casting bir type-ın buna uyğun olan başqa bir type kimi istifadəsidir. Məsələn float, int, double type olaraq ədəddir. Biz int type-ı float və ya double olaraq istifadə edə bilsək bu Type Casting-dir. Bəs biz float type reqemini int type reqemi kimi yaza bilərikmi? Yaza bilərik, amma float kəsirli bir rəqəm olduğuna görə int type nan yazarsaq int type-ı bu kəsirli ədədi bizə yuvarlaqlaşdırıb verəcək. Qısaca bir-birinin yerinə istifadə edilə bilən dəyişənlərin istifadəsi Casting-dir.
+- Bir-birinin yerinə birbaşa istifadə edə bilmədiyimiz dəyişənləri istifadə edə biləcəyimiz hala gətirilmə prosesi isə Type Conversion deyilir. 
+Məsələn: 20 bir rəqəmdir və biz onu int =20; kimi yazmalıyıq. string= "20"; kimi yazdığımızda isə komputer 20 ədədini ədəd kimi deyil də mətn kimi qəbul edir.
+  
+5. Operator precedence nədir və əhəmiyyətini izah edin.
+- Operator precedence operatorların bir-birinə nisbətən üstünlüyünü müəyyən edir və üstün olan əmri birici yerinə yetirir.
+Məsələn: 2+3*5 burada cavab 25 deyil 17 dir. Çünki "*"(vurma) operatoru "+" (toplama) operatoruna nisbətən üstünlüyə sahibdir. Və üstün olan operatoru birinci yerinə yetirir.
+
+6. Automatic Type Conversion ve Type Conversion Methodlar arasındakı fərqləri izah edin.
+Avtomatic Type Conversion Type Conversionda bizim yerinə yetirdiyimiz prosesləri avtomatik yerinə yetirir.

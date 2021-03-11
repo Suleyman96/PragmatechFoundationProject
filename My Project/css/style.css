@@ -314,7 +314,8 @@ margin: 0px;
     width: 40%;
     background: rgba(0, 0, 0, 0.7);
    margin: 280px 0px;
-    left:25%;
+   left: 50%;
+   transform: translateX(-50%);
     position:absolute;
     padding: 6em 2em;
     text-align: center;
@@ -394,7 +395,7 @@ transition: all 1s;
 }
 
 .container{ 
-    width: 1110px;
+    width: 82.2%;
     margin:0em 8em;
    
  
@@ -422,11 +423,7 @@ transition: all 1s;
     border-radius: 50%;
     vertical-align: middle;
 }
- .col-6{
-    margin:0px 10px;
-    height: 130px;
-    width: 50%;
-}
+ 
      
 .least-customer  h1{
 color: black;
@@ -617,7 +614,7 @@ margin-bottom: -10px;
         background:#26bb48 ;
     }
     .container-icons{
-        width: 1110px;
+        width: 82.2%;
    
     text-align: center;
     }
